@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: plum;
+}
+.main-container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+}
+.controls {
+    width: 30%;
+    padding: 1em;
+    background-color: rgb(230, 51, 230);
+}
